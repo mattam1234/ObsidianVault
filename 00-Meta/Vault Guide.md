@@ -64,7 +64,7 @@ This vault is designed to help you:
 1. **Link Liberally**: Connect related notes
 2. **Use Descriptive Names**: Make links self-explanatory
 3. **Bidirectional Links**: Utilize backlinks feature
-4. **Create MOCs**: Map of Contents for complex topics
+4. **Create MOCs**: Map of Content for complex topics
 
 ## 🏷️ Tagging Strategy
 

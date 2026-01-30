@@ -1,5 +1,5 @@
 ---
-title: Book Note Template
+title: {{title}}
 created: {{date}} {{time}}
 tags: [book, reading]
 type: book

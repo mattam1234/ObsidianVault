@@ -66,7 +66,7 @@ Implemented a hierarchical organization:
 ## Resources
 - [[../00-Meta/Vault Guide|Vault Guide]]
 - [[../Templates/Note Template|Note Template]]
-- [[Getting Started with Obsidian]]
+- [[../03-Resources/Getting Started with Obsidian|Getting Started with Obsidian]]
 
 ## Next Steps
 - Continue adding content to Resources
