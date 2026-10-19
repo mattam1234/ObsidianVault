@@ -38,7 +38,7 @@ brew install kubernetes-cli
 
 **On Windows (PowerShell**
 ```powershell
-$env:KUBECONFIG = "$HOME/.kube/prod-k8s-clcreative-kubeconfig.yaml;$HOME/.kube/infra-home-kube-prod-1.yml;$HOME/.kube/infra-home-kube-demo-1.yml;$HOME/.kube/infra-cloud-kube-prod-1.yml"
+$env:KUBECONFIG = "$HOME/.kube/kube-config-1.yml;$HOME/.kube/kube-config-2.yml"
 ```
 
 **On Linux**
