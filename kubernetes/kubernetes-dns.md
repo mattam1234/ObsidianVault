@@ -15,7 +15,8 @@ import /etc/coredns/custom/*.server
 
 ### Add new config map
 
-Example for local DNS server using the **clcreative.home** zone.
+Example for local DNS server using the **home.arpa** zone (RFC 8375 reserves
+`home.arpa` for home networks — substitute your own zone and resolver IP).
 
 ```yml
 apiVersion: v1
@@ -24,8 +25,8 @@ metadata:
   name: coredns-custom
   namespace: kube-system
 data:
-  clcreative.server: |
-    clcreative.home:53 {
-      forward . 10.20.0.10
+  home-arpa.server: |
+    home.arpa:53 {
+      forward . 192.0.2.53
     }
 ```
