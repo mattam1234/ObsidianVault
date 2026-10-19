@@ -16,3 +16,6 @@ Desktop.ini
 *.tmp
 *.temp
 ~*
+
+# Local agent config — this repo is public, keep it out
+.claude/
